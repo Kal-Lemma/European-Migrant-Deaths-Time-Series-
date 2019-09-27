@@ -5,8 +5,7 @@ There is a serious humanitarian problem that needs to be clearly voiced and publ
 
 ## The Two Major Sources of Data for Border Deaths
 * Both sourced from the news media, in which volunteering activists verify, categorize, and input the reports into the database.
-* **Problem with DataSet:** News Media
-Deaths are 'under-counted' due to how the media tends to report whatever catches attention: bigger story, bodies go unreported. Also may stop reporting deaths if it is always occurring in certain locations and continually being reported.
+* **Problem with DataSet:** News Media deaths are 'under-counted' due to how the media tends to report whatever catches attention: bigger story, bodies go unreported. Also may stop reporting deaths if it is always occurring in certain locations and continually being reported.
 There is also possible 'over-counting' by the misidentification of ‘migrant’ bodies, much less occurrence.
 
 ## My DataSet for Time-Series
