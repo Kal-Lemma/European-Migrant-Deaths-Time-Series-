@@ -28,10 +28,13 @@ For the past two decades, Europe’s response to irregular migration by sea has 
 * Tested out Partial and AutoCorrelation Functions, (PACF,ACF) which checks different past timelines relating to the present, to see which past day could be the best predictor of today.
 * Utilized multiple different transformed series through SARIMA models, in which the Subtracted Rolling Mean Series performed best for my predictions. This Model works by combining both AutoRegressive and Moving-Average models, while integrating de-trending and accounting for seasonality in the non-stationary Time Series.
 * Finished up by fitting my model with Gridsearch’s best found parameter choices for both the Non-Seasonal (p,d,q), and Seasonal (P,D,Q) components.
-## Results
+
+## Models' Results
 ![Screen Shot 2019-07-30 at 4.13.26 PM](https://github.com/klemma14/European-Migrant-Deaths-Time-Series-/blob/master/Visuals/Screen%20Shot%202019-07-30%20at%204.13.26%20PM.png)
-**Future Predictions 2018, 2019, 2020**
+
+####Future Predictions 2018, 2019, 2020
 ![Screen Shot 2019-07-31 at 4.22.49 PM](https://github.com/klemma14/European-Migrant-Deaths-Time-Series-/blob/master/Visuals/Screen%20Shot%202019-07-31%20at%204.22.49%20PM.png)
+
 ### Value in Migrant Death Data
 “It is, however, imperative to have migrant death data that is as reliable as possible, for at least two reasons. First, when death occurs on such a massive scale, all actors involved, including States, NGOs and international humanitarian organizations, have a responsibility to investigate the causes of such tragedies in order to identify possible interventions. Second, missing migrants’ relatives have the right to know whether their loved ones have died in the attempt to reach the destination country, and if so where their remains are.”
 [Fatal Journeys: Tracking Lives Lost during Migration](https://publications.iom.int/system/files/pdf/fataljourneys_countingtheuncounted.pdf#page=104)
