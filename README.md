@@ -1,5 +1,5 @@
 # European Migrant Deaths: Time Series
-There is a serious humanitarian problem that needs to be clearly voiced and publicized to have any chance at an impactful solution. With Billions already being poured by the National and EU sectors into border control efforts, it is within the Public’s right to know the ‘intended’ and ‘unintended’ outcomes of such policy.
+There is a serious humanitarian problem that needs to be clearly voiced and publicized to have any chance at an impactful solution. With billions already being poured by the National and EU sectors into border control efforts, it is within the Public’s right to know the ‘intended’ and ‘unintended’ outcomes of such policy.
 * These outcomes rely ‘extremely’ on accurate information in order for policymakers and social engagement on the issue to be properly motivated, honest, and factual! The lack of consistent accounting for Migrant deaths in the Mediterranean has contributed to the legitimization and neutralization of the humanitarian issue at hand.
 * Not having ‘proper’ death accounting also diminishes likelihood of aiding those who may be particularly vulnerable groups; and without death confirmations, relatives and family members “are not only denied closure, but may also be unable to inherit or remarry.
 
@@ -32,7 +32,7 @@ For the past two decades, Europe’s response to irregular migration by sea has 
 ## Models' Results
 ![Screen Shot 2019-07-30 at 4.13.26 PM](https://github.com/klemma14/European-Migrant-Deaths-Time-Series-/blob/master/Visuals/Screen%20Shot%202019-07-30%20at%204.13.26%20PM.png)
 
-####Future Predictions 2018, 2019, 2020
+#### Future Predictions 2018, 2019, 2020
 ![Screen Shot 2019-07-31 at 4.22.49 PM](https://github.com/klemma14/European-Migrant-Deaths-Time-Series-/blob/master/Visuals/Screen%20Shot%202019-07-31%20at%204.22.49%20PM.png)
 
 ### Value in Migrant Death Data
