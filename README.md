@@ -16,10 +16,10 @@ There is also possible 'over-counting' by the misidentification of ‘migrant’
 * Only 10% of all irregular Migrants enter Europe by sea, though nearly 80% drowned in our recorded data.
 ![Screen Shot 2019-07-30 at 2.17.43 PM](https://github.com/klemma14/European-Migrant-Deaths-Time-Series-/blob/master/Visuals/Screen%20Shot%202019-07-30%20at%202.17.43%20PM.png)
 * Low counts during the 90s can be attributed to the lack of many of the visa obligations and government policies that began to be highly enforced later that decade.
-For the past two decades, Europe’s response to irregular migration by sea has taken many various forms. (intended)
+For the past two decades, Europe’s response to irregular migration by sea has taken many various forms. (Intended)
 
 ![Screen Shot 2019-08-31 at 2.02.37 PM](https://github.com/klemma14/European-Migrant-Deaths-Time-Series-/blob/master/Visuals/Screen%20Shot%202019-08-31%20at%202.02.37%20PM.png)
-* When enforcement is increased, migrants resort to more dangerous routes to avoid detection, which leads to increased deaths. (unintended)
+* When enforcement is increased, migrants resort to more dangerous routes to avoid detection, which leads to increased deaths. (Unintended)
 
 ## Trend over Time
 ![Screen Shot 2019-07-30 at 3.36.40 PM](https://github.com/klemma14/European-Migrant-Deaths-Time-Series-/blob/master/Visuals/Screen%20Shot%202019-07-30%20at%203.36.40%20PM.png)
